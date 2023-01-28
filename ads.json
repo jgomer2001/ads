@@ -1,1 +1,15 @@
-{}
+{
+    "jose": {
+        "gh_author": "jgomer2001",
+        "gh_repo_path": "ads",
+        "project_name": "jose",
+        "version": "0.0.1",
+        "author": "jgomer2001",
+        "author_website": "https://github.com/jgomer2001/ads",
+        "github_uri": "https://github.com/jgomer2001/ads",
+        "project_description": "jose's prj",
+        "license": "MIT",
+        "last_updated": "1674914063769",
+        "project_type": "community"
+    }
+}
