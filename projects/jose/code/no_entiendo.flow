@@ -1,0 +1,5 @@
+Flow test
+     Basepath "hello"
+in = { name: "Jhon" }
+Log "@info done"
+Finish "jhon_doe"
